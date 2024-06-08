@@ -8,4 +8,7 @@ Building my favorite **UI Components** using [Flutter](https://flutter.dev/), Go
 
 ### Personal Apps
 
+**Mood Card**
+<img src="https://github.com/ldcstudio/flutter_components/assets/27798623/81aa8537-0e08-4e76-9a57-ce8f37357f54" width="25%" height="25%"/>
+
 ### Community Apps
