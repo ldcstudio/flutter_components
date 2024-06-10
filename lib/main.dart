@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_components/ldcstudio_checkin/home_screen.dart';
+import 'package:flutter_components/revolut_crypto_newly_added/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
