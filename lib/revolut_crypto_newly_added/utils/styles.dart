@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_components/ldcstudio_checkin/utils/colours.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 TextStyle kTitleMedium() {

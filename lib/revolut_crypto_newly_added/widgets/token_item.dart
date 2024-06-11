@@ -28,15 +28,11 @@ class TokenItem extends StatelessWidget {
           Text(token.name, style: kLabelLarge().copyWith(color: kPrimary)),
           const SizedBox(height: 8.0),
           Row(
-            mainAxisAlignment: MainAxisAlignment.start,
             children: [
-              const Padding(
-                padding: EdgeInsets.all(0),
-                child: Icon(
-                  Icons.arrow_drop_down_rounded,
-                  color: kSecondary,
-                  size: 24.0,
-                ),
+              const Icon(
+                Icons.arrow_drop_down_rounded,
+                color: kSecondary,
+                size: 24.0,
               ),
               Text(
                 '${token.percent.toStringAsFixed(2)}%',
